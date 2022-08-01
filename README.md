@@ -1,4 +1,4 @@
-# Punjab-University Past BA Papers / Exams Answers For Visual Studio
+# Punjab University Past BA Papers / Exams Answers For Visual Studio
 Dedicated to the people who can't find answers to the programs and were in private admission for the Visual Studio Answers or workings on how to make the code.
 
 ## Notice
