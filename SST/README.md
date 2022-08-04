@@ -1,12 +1,35 @@
-# Shah Wali Ullah (Page 45)
+# Question Occurance (2018 - 2020)
 
-## Background
+| Name                                     | Occurance |
+| ---------------------------------------- | --------- |
+| Lahore Resoluton                         | 4         |
+| Ideology of Pakistan                     | 4         |
+| Pakstna's Role in OIC                    | 3         |
+| Shah Wali Ullah                          | 3         |
+| Early Problems In Pakistan               | 2         |
+| Solution Of Kashmir Problem              | 3         |
+| Ali-Garh movement                        | 1         |
+| Rights of Minorities                     | 2         |
+| Main problems of development of Pakistan | 1         |
+| Khilaft Movement                         | 1         |
+| Allahabad Address 1930                   | 1         |
+| Congress 1937 - 1939                     | 1         |
+| Services of Quaid-E-Azam                 | 2         |
+| Lucknow pact                             | 1         |
+| Islamialization of Zulfiqar Al Bhutto    | 1         |
+| Two Nation Theory                        | 1         |
+
+# Questions
+
+## Shah Wali Ullah (Page 45)
+
+### Background
 
 - His title was Quta-bin
 - He completed Quran while he was 7 years old
 - Taught in Mudarasa and became revolutionary
 
-## Circumstances
+### Circumstances
 
 - Mughal Empror (Aurangzeb) got weak
 - King's treasures was empty
@@ -19,7 +42,7 @@
 - Gave up Jahad
 - Lack of Educational system
 
-## Differneces
+### Differneces
 
 - Muslims were in a disunity
 - There was no proper regulations
@@ -27,7 +50,7 @@
 - They were not able to get proper education and jobs
 - They were not able to get proper health care or protection from the enemies
 
-## Plans
+### Plans
 
 - Highlighting problems for the Muslims such as the story of Hazarat Adam (R.A) where he ate the seed of the tree and was banished from the Jannah, and after repentence he was allowed to live in the Jannah.
 - He fixed the disunity among the Muslims with the help of Quran
@@ -37,7 +60,7 @@
 - - Educate
 - - Organize
 
-## Services
+### Services
 
 - Translation from Arbi to Persian
 - - This was so the people of the subcontient could understand the Quran in their mother language
@@ -52,9 +75,9 @@
 
 ---
 
-# Congress Ministeries 1397-1393 Policies Agaisnst Muslims
+## Congress Ministeries 1397-1393 Policies Agaisnst Muslims
 
-## Summary
+### Summary
 
 India people are true represnetive of whole india of both muslime and ndia.\n",two parties
 
@@ -82,7 +105,7 @@ British were in need of funds and Britishers were getting half of the revenue fr
 
 ---
 
-# Congress Ministeries 1397 (Pg. 177)
+## Congress Ministeries 1397 (Pg. 177)
 
 - How Pakistan show be made and on what values, like
 - - Name is Islamic Repbluic of Pakistan
@@ -102,9 +125,9 @@ British were in need of funds and Britishers were getting half of the revenue fr
 
 ---
 
-# Lahore Resolution 1940 (Pg. 140)
+## Lahore Resolution 1940 (Pg. 140)
 
-## Who Started Lahore Resolution?
+### Who Started Lahore Resolution?
 
 Fazl-ul-Haq (Fazlul Haq) was the first Muslim to start the Lahore Resolution.
 
@@ -117,20 +140,20 @@ Fazl-ul-Haq (Fazlul Haq) was the first Muslim to start the Lahore Resolution.
 - Interpretation and Criticism
 - - Congress made critisism and interpretation of the Resolution
 
-## Introduction to the draft
+### Introduction to the draft
 
 (Fazlul Haq) put forward the constitution of the country known as Lahore Resolution.
 
 - The confress started on 22nd of March 1940.
 - Quaid-E-Azam and Fazlul HaQ forwarded the address and it was accepted by 24th March
 
-## Background (Events before 1940)
+### Background (Events before 1940)
 
 - Congress was leaving the seats
 - British was in war
 - Muslims were getting happy.
 
-## How Muslims opened their eyes (jkjk)
+### How Muslims opened their eyes (jkjk)
 
 - After the watching the way of Turkey where Muslims were being oppressed so they knew that they should have a seprated state or they would be opressed much more. So they demanded Quaid-E-Azam to be their Leader and vouch for them.
 
