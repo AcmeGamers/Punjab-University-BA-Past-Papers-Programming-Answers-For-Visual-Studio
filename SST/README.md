@@ -6,15 +6,15 @@
 | Ideology of Pakistan                     | 4         |
 | Pakstna's Role in OIC                    | 3         |
 | Shah Wali Ullah                          | 3         |
-| Early Problems In Pakistan               | 2         |
 | Solution Of Kashmir Problem              | 3         |
-| Ali-Garh movement                        | 1         |
+| Early Problems In Pakistan               | 2         |
 | Rights of Minorities                     | 2         |
+| Services of Quaid-E-Azam                 | 2         |
+| Ali-Garh movement                        | 1         |
 | Main problems of development of Pakistan | 1         |
 | Khilaft Movement                         | 1         |
 | Allahabad Address 1930                   | 1         |
 | Congress 1937 - 1939                     | 1         |
-| Services of Quaid-E-Azam                 | 2         |
 | Lucknow pact                             | 1         |
 | Islamialization of Zulfiqar Al Bhutto    | 1         |
 | Two Nation Theory                        | 1         |
