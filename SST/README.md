@@ -1,8 +1,8 @@
-# Question Occurance (2018 - 2020)
+# Question Occurance (2015 - 2019)
 
 > **Note**
 
-> It is best that each question has at least 15-20 Headings.
+> It is best that each question has at least 15-20 Headings. I recommend writing them down on paper as writing on paper gives mind more concentration than that on a computer. (Personal tip from someone who uses laptop around 13 ~ 17 hours each day)
 
 | Name                                                           | Occurance | Year |
 | -------------------------------------------------------------- | --------- | ---- |
