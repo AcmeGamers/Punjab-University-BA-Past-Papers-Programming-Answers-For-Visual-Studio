@@ -2,15 +2,15 @@
 
 | Name                                     | Occurance |
 | ---------------------------------------- | --------- |
-| Lahore Resoluton                         | 4         |
+| Lahore Resoluton                         | **4**     |
 | Ideology of Pakistan                     | 4         |
-| Pakstna's Role in OIC                    | 3         |
+| Pakstna's Role in OIC                    | **3**     |
 | Shah Wali Ullah                          | 3         |
 | Solution Of Kashmir Problem              | 3         |
-| Early Problems In Pakistan               | 2         |
+| Early Problems In Pakistan               | **2**     |
 | Rights of Minorities                     | 2         |
 | Services of Quaid-E-Azam                 | 2         |
-| Ali-Garh movement                        | 1         |
+| Ali-Garh movement                        | **1**     |
 | Main problems of development of Pakistan | 1         |
 | Khilaft Movement                         | 1         |
 | Allahabad Address 1930                   | 1         |
