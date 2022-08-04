@@ -4,7 +4,7 @@
 | -------------------------------------------------------------- | --------- |
 | **Lahore Resoluton**                                           | **4**     |
 | Ideology of Pakistan                                           | 4         |
-| **Pakstna's Role in OIC (Organization of Islamic Counterise)** | **3**     |
+| **Pakstna's Role in OIC (Organization of Islamic Counteries)** | **3**     |
 | Shah Wali Ullah                                                | 3         |
 | Solution Of Kashmir Problem                                    | 3         |
 | **Early Problems In Pakistan**                                 | **2**     |
