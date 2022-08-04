@@ -1,3 +1,6 @@
+> **Note**
+> It is best that each question has at least 15-20 Headings.
+
 # Question Occurance (2018 - 2020)
 
 | Name                                                           | Occurance |
@@ -23,6 +26,30 @@
 
 ## Lahore Resolution 1940 (Pg. 140) [4 Occurances]
 
+### Possible Headings
+
+| Sr. | Headings                      |
+| --- | ----------------------------- |
+| .1  | Introduction                  |
+| .2  | Background                    |
+| .3  | Who Started Lahore Resolution |
+| .4  | What is Lahore Resolution     |
+| .5  | Introduction to the Draft     |
+| .7  | Events Before 1940            |
+| .8  |                               |
+| .9  |                               |
+| .10 |                               |
+| .11 |                               |
+| .12 |                               |
+| .13 |                               |
+| .14 |                               |
+| .15 |                               |
+| .16 |                               |
+| .17 |                               |
+| .18 |                               |
+| .19 |                               |
+| .20 |                               |
+
 ### Who Started Lahore Resolution?
 
 Fazl-ul-Haq (Fazlul Haq) was the first Muslim to start the Lahore Resolution.
@@ -41,7 +68,8 @@ Fazl-ul-Haq (Fazlul Haq) was the first Muslim to start the Lahore Resolution.
 (Fazlul Haq) put forward the constitution of the country known as Lahore Resolution.
 
 - The confress started on 22nd of March 1940.
-- Quaid-E-Azam and Fazlul HaQ forwarded the address and it was accepted by 24th March
+- Quaid-E-Azam's determination rose after seeing the support of many muslims. (Around 500,000 - 600,000+ people)
+- Quaid-E-Azam and Fazlul Haq forwarded the address and it was accepted by 24th March
 
 ### Background (Events before 1940)
 
@@ -54,6 +82,30 @@ Fazl-ul-Haq (Fazlul Haq) was the first Muslim to start the Lahore Resolution.
 - After the watching the way of Turkey where Muslims were being oppressed so they knew that they should have a seprated state or they would be opressed much more. So they demanded Quaid-E-Azam to be their Leader and vouch for them.
 
 ## Shah Wali Ullah (Page 45)
+
+### Possible Headings
+
+| Sr. | Headings |
+| --- | -------- |
+| .1  |          |
+| .2  |          |
+| .3  |          |
+| .4  |          |
+| .5  |          |
+| .7  |          |
+| .8  |          |
+| .9  |          |
+| .10 |          |
+| .11 |          |
+| .12 |          |
+| .13 |          |
+| .14 |          |
+| .15 |          |
+| .16 |          |
+| .17 |          |
+| .18 |          |
+| .19 |          |
+| .20 |          |
 
 ### Background
 
@@ -107,6 +159,30 @@ Fazl-ul-Haq (Fazlul Haq) was the first Muslim to start the Lahore Resolution.
 
 ## Congress Ministeries 1397-1393 Policies Agaisnst Muslims
 
+### Possible Headings
+
+| Sr. | Headings |
+| --- | -------- |
+| .1  |          |
+| .2  |          |
+| .3  |          |
+| .4  |          |
+| .5  |          |
+| .7  |          |
+| .8  |          |
+| .9  |          |
+| .10 |          |
+| .11 |          |
+| .12 |          |
+| .13 |          |
+| .14 |          |
+| .15 |          |
+| .16 |          |
+| .17 |          |
+| .18 |          |
+| .19 |          |
+| .20 |          |
+
 ### Summary
 
 India people are true represnetive of whole india of both muslime and ndia.\n",two parties
@@ -134,6 +210,30 @@ Quaid-E-Azam said that they are going to be seats for both muslims and hindus. S
 British were in need of funds and Britishers were getting half of the revenue from Punjab and to make sure they dun lose Punjab, Britshers made one of the provinsional members and made him a Cabinet member.
 
 ## Congress Ministeries 1397 (Pg. 177)
+
+### Possible Headings
+
+| Sr. | Headings |
+| --- | -------- |
+| .1  |          |
+| .2  |          |
+| .3  |          |
+| .4  |          |
+| .5  |          |
+| .7  |          |
+| .8  |          |
+| .9  |          |
+| .10 |          |
+| .11 |          |
+| .12 |          |
+| .13 |          |
+| .14 |          |
+| .15 |          |
+| .16 |          |
+| .17 |          |
+| .18 |          |
+| .19 |          |
+| .20 |          |
 
 - How Pakistan show be made and on what values, like
 - - Name is Islamic Repbluic of Pakistan
