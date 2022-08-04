@@ -4,24 +4,24 @@
 
 > It is best that each question has at least 15-20 Headings.
 
-| Name                                                           | Occurance |
-| -------------------------------------------------------------- | --------- |
-| **Lahore Resoluton**                                           | **4**     |
-| Ideology of Pakistan                                           | 4         |
-| **Pakstan's Role in OIC (Organization of Islamic Counteries)** | **3**     |
-| Shah Wali Ullah                                                | 3         |
-| Solution Of Kashmir Problem                                    | 3         |
-| **Early Problems In Pakistan**                                 | **2**     |
-| Rights of Minorities                                           | 2         |
-| Services of Quaid-E-Azam                                       | 2         |
-| **Ali-Garh movement**                                          | **1**     |
-| Main problems of development of Pakistan                       | 1         |
-| Khilaft Movement                                               | 1         |
-| Allahabad Address 1930                                         | 1         |
-| Congress 1937 - 1939                                           | 1         |
-| Lucknow pact                                                   | 1         |
-| Islamialization of Zulfiqar Al Bhutto                          | 1         |
-| Two Nation Theory                                              | 1         |
+| Name                                                           | Occurance | Year |
+| -------------------------------------------------------------- | --------- | ---- |
+| **Lahore Resoluton**                                           | **4**     |      |
+| Ideology of Pakistan                                           | 4         |      |
+| **Pakstan's Role in OIC (Organization of Islamic Counteries)** | **3**     |      |
+| Shah Wali Ullah                                                | 3         |      |
+| Solution Of Kashmir Problem                                    | 3         |      |
+| **Early Problems In Pakistan**                                 | **2**     |      |
+| Rights of Minorities                                           | 2         |      |
+| Services of Quaid-E-Azam                                       | 2         |      |
+| **Ali-Garh movement**                                          | **1**     |      |
+| Main problems of development of Pakistan                       | 1         |      |
+| Khilaft Movement                                               | 1         |      |
+| Allahabad Address 1930                                         | 1         |      |
+| Congress 1937 - 1939                                           | 1         |      |
+| Lucknow pact                                                   | 1         |      |
+| Islamialization of Zulfiqar Al Bhutto                          | 1         |      |
+| Two Nation Theory                                              | 1         |      |
 
 # Questions
 
@@ -29,27 +29,27 @@
 
 ### Possible Headings
 
-| Sr. | Headings                      |
-| --- | ----------------------------- |
-| .1  | Introduction                  |
-| .2  | Background                    |
-| .3  | Who Started Lahore Resolution |
-| .4  | What is Lahore Resolution     |
-| .5  | Introduction to the Draft     |
-| .7  | Events Before 1940            |
-| .8  |                               |
-| .9  |                               |
-| .10 |                               |
-| .11 |                               |
-| .12 |                               |
-| .13 |                               |
-| .14 |                               |
-| .15 |                               |
-| .16 |                               |
-| .17 |                               |
-| .18 |                               |
-| .19 |                               |
-| .20 |                               |
+| Sr. | Headings                                         |
+| --- | ------------------------------------------------ |
+| .1  | Introduction                                     |
+| .2  | Background                                       |
+| .3  | Who Started Lahore Resolution                    |
+| .4  | Two Nation Theory                                |
+| .5  | Introduction to the Draft                        |
+| .7  | Events Before 1940 (WW1, Congress Leaving Seats) |
+| .8  |                                                  |
+| .9  |                                                  |
+| .10 |                                                  |
+| .11 |                                                  |
+| .12 |                                                  |
+| .13 |                                                  |
+| .14 |                                                  |
+| .15 |                                                  |
+| .16 |                                                  |
+| .17 |                                                  |
+| .18 |                                                  |
+| .19 |                                                  |
+| .20 |                                                  |
 
 ### Who Started Lahore Resolution?
 
@@ -251,3 +251,29 @@ British were in need of funds and Britishers were getting half of the revenue fr
 - - Protection of rights of minorities
 - - Zakat and Ushr system
 - - Close relationship with all islamic counteries
+
+## Khilafat Movement
+
+### Possible Headings
+
+| Sr. | Headings                                                                |
+| --- | ----------------------------------------------------------------------- |
+| .1  | Background                                                              |
+| .2  | Foundation of Khilafat Movement (20th May ~ Celebrated at 27th October) |
+| .3  | Role of Gandhi in Khilaft Movement                                      |
+| .4  | Muslim League and Khilafat Movement                                     |
+| .5  | Appeal to British (12th Dec)                                            |
+| .7  | Jamat-E-Islami (5th Jan)                                                |
+| .8  | Delegatioin sent to London (19th Jan)                                   |
+| .9  | Protection of Caliphs and Sacred Places                                 |
+| .10 | The servers of Peace Treaty                                             |
+| .11 | Non-Corporaton Movement                                                 |
+| .12 | Islamic Nature of the Muslims                                           |
+| .13 | Indian Muslaims as Part of Muslim Ummah                                 |
+| .14 | End of Hindu-Muslim Unity                                               |
+| .15 |                                                                         |
+| .16 |                                                                         |
+| .17 |                                                                         |
+| .18 |                                                                         |
+| .19 |                                                                         |
+| .20 |                                                                         |
