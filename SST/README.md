@@ -4,7 +4,7 @@
 | -------------------------------------------------------------- | --------- |
 | **Lahore Resoluton**                                           | **4**     |
 | Ideology of Pakistan                                           | 4         |
-| **Pakstna's Role in OIC (Organization of Islamic Counteries)** | **3**     |
+| **Pakstan's Role in OIC (Organization of Islamic Counteries)** | **3**     |
 | Shah Wali Ullah                                                | 3         |
 | Solution Of Kashmir Problem                                    | 3         |
 | **Early Problems In Pakistan**                                 | **2**     |
@@ -20,6 +20,38 @@
 | Two Nation Theory                                              | 1         |
 
 # Questions
+
+## Lahore Resolution 1940 (Pg. 140) [4 Occurances]
+
+### Who Started Lahore Resolution?
+
+Fazl-ul-Haq (Fazlul Haq) was the first Muslim to start the Lahore Resolution.
+
+- Pakistan was never possible before Lahore Resoultion
+- Not a rigid Resolution (It was just a proposal)
+- - To check wehter britishers would accept it or not
+- On the day of confress, Quaid-E-Azam was amazed after seeing participation of so many muslims that he was convinced that the Resolution must be held. He wasn't convinced before unless the day he saw so many uslies
+- Atonomy and Soverinty (Western and Eastern zones rights should be protccted)
+- - Given complete rights and freedom
+- Interpretation and Criticism
+- - Congress made critisism and interpretation of the Resolution
+
+### Introduction to the draft
+
+(Fazlul Haq) put forward the constitution of the country known as Lahore Resolution.
+
+- The confress started on 22nd of March 1940.
+- Quaid-E-Azam and Fazlul HaQ forwarded the address and it was accepted by 24th March
+
+### Background (Events before 1940)
+
+- Congress was leaving the seats
+- British was in war
+- Muslims were getting happy.
+
+### How Muslims opened their eyes (jkjk)
+
+- After the watching the way of Turkey where Muslims were being oppressed so they knew that they should have a seprated state or they would be opressed much more. So they demanded Quaid-E-Azam to be their Leader and vouch for them.
 
 ## Shah Wali Ullah (Page 45)
 
@@ -73,8 +105,6 @@
 - There should be no interest
 - - Should give Zakat
 
----
-
 ## Congress Ministeries 1397-1393 Policies Agaisnst Muslims
 
 ### Summary
@@ -103,8 +133,6 @@ Quaid-E-Azam said that they are going to be seats for both muslims and hindus. S
 
 British were in need of funds and Britishers were getting half of the revenue from Punjab and to make sure they dun lose Punjab, Britshers made one of the provinsional members and made him a Cabinet member.
 
----
-
 ## Congress Ministeries 1397 (Pg. 177)
 
 - How Pakistan show be made and on what values, like
@@ -122,39 +150,3 @@ British were in need of funds and Britishers were getting half of the revenue fr
 - - Protection of rights of minorities
 - - Zakat and Ushr system
 - - Close relationship with all islamic counteries
-
----
-
-## Lahore Resolution 1940 (Pg. 140)
-
-### Who Started Lahore Resolution?
-
-Fazl-ul-Haq (Fazlul Haq) was the first Muslim to start the Lahore Resolution.
-
-- Pakistan was never possible before Lahore Resoultion
-- Not a rigid Resolution (It was just a proposal)
-- - To check wehter britishers would accept it or not
-- On the day of confress, Quaid-E-Azam was amazed after seeing participation of so many muslims that he was convinced that the Resolution must be held. He wasn't convinced before unless the day he saw so many uslies
-- Atonomy and Soverinty (Western and Eastern zones rights should be protccted)
-- - Given complete rights and freedom
-- Interpretation and Criticism
-- - Congress made critisism and interpretation of the Resolution
-
-### Introduction to the draft
-
-(Fazlul Haq) put forward the constitution of the country known as Lahore Resolution.
-
-- The confress started on 22nd of March 1940.
-- Quaid-E-Azam and Fazlul HaQ forwarded the address and it was accepted by 24th March
-
-### Background (Events before 1940)
-
-- Congress was leaving the seats
-- British was in war
-- Muslims were getting happy.
-
-### How Muslims opened their eyes (jkjk)
-
-- After the watching the way of Turkey where Muslims were being oppressed so they knew that they should have a seprated state or they would be opressed much more. So they demanded Quaid-E-Azam to be their Leader and vouch for them.
-
----
