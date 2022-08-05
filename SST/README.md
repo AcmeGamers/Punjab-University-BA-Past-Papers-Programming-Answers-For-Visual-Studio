@@ -47,9 +47,9 @@
 | .15 | - Loss of Jobs and Businesses                              |
 | .16 | - Congressing Losing the power 1939                        |
 | .17 | - Congress Leaving Provinicial Seats                       |
-| .18 | Accepntance of the Resolution                              |
-| .19 |                                                            |
-| .20 |                                                            |
+| .18 | - Bi-Election                                              |
+| .19 | Congerss's Reaction and Critiques                          |
+| .20 | Accepntance of the Resolution                              |
 
 ### Who Started Lahore Resolution?
 
@@ -86,31 +86,31 @@ Fazl-ul-Haq (Fazlul Haq) was the first Muslim to start the Lahore Resolution.
 
 ### Possible Headings
 
-| Sr. | Headings |
-| --- | -------- |
-| .1  |          |
-| .2  |          |
-| .3  |          |
-| .4  |          |
-| .5  |          |
-| .7  |          |
-| .8  |          |
-| .9  |          |
-| .10 |          |
-| .11 |          |
-| .12 |          |
-| .13 |          |
-| .14 |          |
-| .15 |          |
-| .16 |          |
-| .17 |          |
-| .18 |          |
-| .19 |          |
-| .20 |          |
+| Sr. | Headings   |
+| --- | ---------- |
+| .1  | Background |
+| .2  |            |
+| .3  |            |
+| .4  |            |
+| .5  |            |
+| .7  |            |
+| .8  |            |
+| .9  |            |
+| .10 |            |
+| .11 |            |
+| .12 |            |
+| .13 |            |
+| .14 |            |
+| .15 |            |
+| .16 |            |
+| .17 |            |
+| .18 |            |
+| .19 |            |
+| .20 |            |
 
 ### Background
 
-- His title was Quta-bin
+- His title was Quṭb-ud-Dīn
 - He completed Quran while he was 7 years old
 - Taught in Mudarasa and became revolutionary
 
