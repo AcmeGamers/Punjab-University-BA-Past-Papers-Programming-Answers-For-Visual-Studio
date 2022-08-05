@@ -29,27 +29,27 @@
 
 ### Possible Headings
 
-| Sr. | Headings                                         |
-| --- | ------------------------------------------------ |
-| .1  | Introduction                                     |
-| .2  | Background                                       |
-| .3  | Who Started Lahore Resolution                    |
-| .4  | Two Nation Theory                                |
-| .5  | Introduction to the Draft                        |
-| .7  | Events Before 1940 (WW1, Congress Leaving Seats) |
-| .8  |                                                  |
-| .9  |                                                  |
-| .10 |                                                  |
-| .11 |                                                  |
-| .12 |                                                  |
-| .13 |                                                  |
-| .14 |                                                  |
-| .15 |                                                  |
-| .16 |                                                  |
-| .17 |                                                  |
-| .18 |                                                  |
-| .19 |                                                  |
-| .20 |                                                  |
+| Sr. | Headings                                                   |
+| --- | ---------------------------------------------------------- |
+| .1  | Introduction                                               |
+| .2  | Background                                                 |
+| .3  | Who Started Lahore Resolution                              |
+| .4  | Two Nation Theory                                          |
+| .5  | Introduction to the Draft                                  |
+| .7  | Events Before 1940 (Congress Ministeries 1937 - 1939 data) |
+| .8  | - Islam in Danger                                          |
+| .9  | - Working Comittees                                        |
+| .10 | - Standardized Educational System                          |
+| .11 | - Mundir Scheme (Teaching Muslim Kids in Mundir)           |
+| .12 | - - Educatinal Law for Child to Start Education by 7       |
+| .13 | - Language                                                 |
+| .14 | - National Anthem                                          |
+| .15 | - Loss of Jobs and Businesses                              |
+| .16 | - Congressing Losing the power 1939                        |
+| .17 | - Congress Leaving Provinicial Seats                       |
+| .18 | Accepntance of the Resolution                              |
+| .19 |                                                            |
+| .20 |                                                            |
 
 ### Who Started Lahore Resolution?
 
