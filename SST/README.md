@@ -4,7 +4,7 @@
 
 > It is best that each question has at least 15-20 Headings. I recommend writing them down on paper as writing on paper gives mind more concentration than that on a computer. (Personal tip from someone who uses laptop around 13 ~ 17 hours each day)
 
-> You can also watch videos from [CSS PMS From Amna](https://www.youtube.com/channel/UCrbditpKFCvaZhT_Wmzl-LA), she helped me a lot when it coems to learning this topic.
+> You can also watch videos from [CSS PMS From Amna](https://www.youtube.com/channel/UCrbditpKFCvaZhT_Wmzl-LA), she helped me a lot when it comes to learning this topic.
 
 > You can also use chatgpt to create these stuff as well 🙂
 
